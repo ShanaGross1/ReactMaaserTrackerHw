@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactMaaserTracker.Web", "ReactMaaserTracker.Web\ReactMaaserTracker.Web.csproj", "{2EA07F5D-CFBF-4CE4-85FC-11FEDF3ACC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactMaaserTracker.Data", "ReactMaaserTracker.Data\ReactMaaserTracker.Data.csproj", "{D401D5B8-0A92-4FAB-B9D9-745E1DAF53C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA07F5D-CFBF-4CE4-85FC-11FEDF3ACC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA07F5D-CFBF-4CE4-85FC-11FEDF3ACC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA07F5D-CFBF-4CE4-85FC-11FEDF3ACC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA07F5D-CFBF-4CE4-85FC-11FEDF3ACC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D401D5B8-0A92-4FAB-B9D9-745E1DAF53C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D401D5B8-0A92-4FAB-B9D9-745E1DAF53C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D401D5B8-0A92-4FAB-B9D9-745E1DAF53C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D401D5B8-0A92-4FAB-B9D9-745E1DAF53C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
